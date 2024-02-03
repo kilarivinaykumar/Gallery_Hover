@@ -1,0 +1,227 @@
+#gal{
+    height: 550px;
+    width: 100px;
+    
+    border: 2px solid wheat;
+    border-radius: 30px;
+    background-image: url('https://images7.alphacoders.com/131/thumbbig-1312721.webp');
+     /* background-repeat: no-repeat;
+    background-size: cover;  */
+     background-position: center; 
+   
+   
+}
+#gal:hover{
+    background-color: aqua;
+    height: 600px;
+    width: 700px;
+    border-radius: 100px;
+    background-image: url('https://images7.alphacoders.com/131/thumbbig-1312721.webp');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#gal1{
+    height: 400px;
+    width: 80px;
+    
+    border: 2px solid wheat;
+    border-radius: 30px;
+    margin-top: 70px;
+   background-image: url('https://images6.alphacoders.com/918/thumbbig-918287.webp');
+    background-position: center;
+    margin-top: 30px;
+   
+   
+}
+#gal1:hover{
+    background-color: aqua;
+    height: 600px;
+    width: 700px;
+    border-radius: 100px;
+    background-image: url('https://images6.alphacoders.com/918/thumbbig-918287.webp');
+ 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+#gal2{
+    height: 300px;
+    width: 80px;
+    
+    border: 2px solid wheat;
+    border-radius: 30px;
+    margin-top: 120px;   
+    background-image: url('https://images5.alphacoders.com/134/thumbbig-1340473.webp');
+    background-position: center;
+    margin-bottom: 90px;
+   
+}
+#gal2:hover{
+    background-color: aqua;
+    height: 600px;
+    width: 700px;
+    border-radius: 100px;
+    background-image: url('https://images5.alphacoders.com/134/thumbbig-1340473.webp');
+
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+}
+#gal3{
+    height: 200px;
+    width: 80px;
+    
+    border: 2px solid wheat;
+    border-radius: 30px;
+    margin-top: 170px;
+    background-image: url('https://images.alphacoders.com/134/thumbbig-1342318.webp');
+    background-position: center;
+    margin-bottom: 145px;
+
+   
+   
+}
+#gal3:hover{
+    background-color: aqua;
+    height: 600px;
+    width: 700px;
+    border-radius: 100px;
+    background-image: url('https://images.alphacoders.com/134/thumbbig-1342318.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+#gal4{
+    height: 100px;
+    width: 80px;
+    
+    border: 2px solid wheat;
+    border-radius: 30px;
+    margin-top: 220px;
+    background-image: url('https://images4.alphacoders.com/587/thumbbig-587526.webp');
+    background-position: center;
+    margin-bottom: 185px;
+}
+#gal4:hover{
+    background-color: aqua;
+    height: 600px;
+    width: 700px;
+    border-radius: 100px;
+    background-image: url('https://images4.alphacoders.com/587/thumbbig-587526.webp');
+    background-position: center;
+    background-repeat: no-repeat;
+   background-size: cover;
+}
+
+
+body{
+    display: flex;
+    background-color: rgb(97, 159, 226);
+    /* justify-content: center;
+    align-items: center;
+    flex-direction: row;  */
+    gap: 20px;
+    margin-top: 80px;
+    margin-left: 150px;
+    
+}
+#k{
+    height: 100px;
+    width: 80px;
+    border: 2px solid wheat;
+    border-radius: 30px;
+    background-image: url('https://wallpaperaccess.com/full/3162332.jpg');
+    background-position: center;
+}
+#k:hover{
+    background-color: aqua;
+    height: 600px;
+    width: 700px;
+    border-radius: 100px;
+    background-image: url('https://wallpaperaccess.com/full/3162332.jpg');
+    background-position: center;
+    background-repeat:no-repeat ;
+    background-size: cover;
+}
+#k1{
+    height: 200px;
+    width: 80px;
+    border: 2px solid wheat;
+    border-radius: 30px;
+    background-image: url('https://wallpaperaccess.com/full/1250716.jpg');
+    background-position: center;
+}
+#k1:hover{
+    background-color: aqua;
+    height: 600px;
+    width: 700px;
+    border-radius: 100px;
+    background-image: url('https://wallpaperaccess.com/full/1250716.jpg');
+    background-position: center;
+    background-repeat:no-repeat ;
+    background-size: cover;
+}
+#k2{
+    height: 300px;
+    width: 80px;
+    border: 2px solid wheat;
+    border-radius: 30px;
+    background-image: url('https://wallpaperaccess.com/full/1263538.jpg');
+    background-position: center;
+}
+#k2:hover{
+    background-color: aqua;
+    height: 600px;
+    width: 700px;
+    border-radius: 100px;
+    background-image: url('https://wallpaperaccess.com/full/1263538.jpg');
+    background-position: center;
+    background-repeat:no-repeat ;
+    background-size: cover;
+}
+#k3{
+    height: 400px;
+    width: 80px;
+    border: 2px solid wheat;
+    border-radius: 30px;
+    background-image: url('https://wallpaperaccess.com/full/1263545.jpg');
+    background-position: center;
+}
+#k3:hover{
+    background-color: aqua;
+    height: 600px;
+    width: 700px;
+    border-radius: 100px;
+    background-image: url('https://wallpaperaccess.com/full/1263545.jpg');
+    background-position: center;
+    background-repeat:no-repeat ;
+    background-size: cover;
+}
+#k4{
+    height: 550px;
+    width: 100px;
+    border: 2px solid wheat;
+    border-radius: 30px;
+    background-image: url('https://i.pinimg.com/originals/90/eb/77/90eb77835c2347f1b2f3c55e48dafa55.jpg');
+    background-position: center;
+}
+#k4:hover{
+    background-color: aqua;
+    height: 500px;
+    width: 600px;
+    border-radius: 100px;
+    background-image: url('https://i.pinimg.com/originals/90/eb/77/90eb77835c2347f1b2f3c55e48dafa55.jpg');
+    background-position: center;
+    background-repeat:no-repeat ;
+    background-size: cover;
+}
+.kv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 20px;
+}
